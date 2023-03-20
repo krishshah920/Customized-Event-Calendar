@@ -13,7 +13,7 @@ Event Calendar for company use made using Django and Python. This event calendar
 </ul> 
 
 # User Calendar 
-  <img src = "./adminCalendar.png" alt = "userCalendar">
+  <img src = "./userCalendar.png" alt = "userCalendar">
   <u><h3>Features</h3></u>
 <ul>
   <li> .</li>
