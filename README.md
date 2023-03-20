@@ -17,7 +17,7 @@ Event Calendar for company use. This event calendar consist of two main views na
   <li>Custom Events based on categories.</li> 
   <li>Events Indication on both Calendar and Events tab.</li>
   <li>Pop-Up for Event Description by clicking the event name.</li>
-  <li>Add/Delete/Edit Events./li>
+  <li>Add/Delete/Edit Events.</li>
   <li><u>Events Visibility Options: </u>
     <ol>
       <li>Admin Only</li>
