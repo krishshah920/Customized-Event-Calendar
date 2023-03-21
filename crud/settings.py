@@ -90,7 +90,7 @@ WSGI_APPLICATION = 'crud.wsgi.application'
 
 DATABASES = {  
     'default': {  
-        'ENGINE': 'django.db.backends.postgresql',  
+        'ENGINE': 'django.db.backends.mysql',  
         'NAME': 'sql12607399',
         'USER':'sql12607399',  
         'PASSWORD':'qksKAahe9Y',  
